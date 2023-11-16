@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1001,
+      "cover": "Hardcover",
+      "title": "The Enigmatic Quest",
+      "author": "Elena Nightingale",
+      "img": "https://example.com/the_enigmatic_quest.jpg",
+      "posted_date": "2023-11-05",
+      "reading_time": 50,
+      "hashtags": ["Mystery", "Adventure", "Intrigue"]
+    },
+    {
+      "id": 1002,
+      "cover": "Paperback",
+      "title": "Echoes of Tomorrow",
+      "author": "Michael Stardust",
+      "img": "https://example.com/echoes_of_tomorrow.jpg",
+      "posted_date": "2023-10-18",
+      "reading_time": 65,
+      "hashtags": ["SciFi", "TimeTravel", "Exploration"]
+    },
+    {
+      "id": 1003,
+      "cover": "eBook",
+      "title": "The Secret Garden of Dreams",
+      "author": "Sophie Moonlight",
+      "img": "https://example.com/secret_garden_of_dreams.jpg",
+      "posted_date": "2023-09-30",
+      "reading_time": 40,
+      "hashtags": ["Fantasy", "Magic", "Nature"]
+    },
+    {
+      "id": 1004,
+      "cover": "Audiobook",
+      "title": "Whispers in the Dark",
+      "author": "Nathan Shadows",
+      "img": "https://example.com/whispers_in_the_dark.jpg",
+      "posted_date": "2023-08-25",
+      "reading_time": 55,
+      "hashtags": ["Thriller", "Suspense", "Mystery"]
+    },
+    {
+      "id": 1005,
+      "cover": "PDF",
+      "title": "Legends of the Forgotten Realms",
+      "author": "Aria Sunbeam",
+      "img": "https://example.com/legends_of_the_forgotten_realms.jpg",
+      "posted_date": "2023-12-02",
+      "reading_time": 45,
+      "hashtags": ["Adventure", "Epic", "Mythical"]
+    }
+  ]

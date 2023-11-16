@@ -1,12 +1,12 @@
-// import { useState } from 'react'
-// import './App.css'
+import Blogs from "./components/Blogs/Blogs"
+import Header from "./components/Header/Header"
 
 function App() {
 
-
-  return (
+return (
     <>
-      <h1 className='text-5xl bg-green-200 underline'>Vite + React</h1>
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
